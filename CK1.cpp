@@ -6,10 +6,10 @@ int main ()
     
     cin >> num;
     if (num > 0)
-        cout << "positive";
+        cout << "Positive";
     else if (num<0)
-        cout << "negative";
+        cout << "Negative";
         else
-            cout << "invalid";
+            cout << "Invalid";
     return 0;
 }
