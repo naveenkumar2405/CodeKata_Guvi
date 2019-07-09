@@ -9,6 +9,8 @@ int main ()
         cout << "Positive";
     else if (num<0)
         cout << "Negative";
+    else if (num=0)
+        cout << "Zero";
         else
             cout << "Invalid";
     return 0;
