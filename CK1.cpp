@@ -8,7 +8,7 @@ int main ()
     if (num > 0)
         cout << "positive";
     else if (num<0)
-        cout << num << "negative";
+        cout << "negative";
         else
             cout << "invalid";
     return 0;
